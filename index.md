@@ -1,0 +1,17 @@
+---
+layout: null
+---
+
+This is a text page.
+
+Test test test.
+
+
+ __________
+< No HTML! >
+ ----------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
