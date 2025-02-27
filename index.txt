@@ -10,7 +10,7 @@
 The modern web is the pure incarnation of evil. When Satan has a 1v1 with his manager, he
 confers with the modern web. If Satan is Sauron, then the modern web is Melkor [1]. Every
 horror that you can imagine is because of the modern web. Modern web is not an existential
-risk (X-risk), but is an astronomic existential risk (S-risk) [2]. It is the duty of each and
+risk (X-risk), but is an astronomic suffering risk (S-risk) [2]. It is the duty of each and
 every man, woman, and child to revolt against it. If you're not working on returning civilization
 to ooga-booga, you're a bad person.
 
@@ -61,7 +61,7 @@ Rules:
 Submitting:
 -----------
 
-Email me [4] with "[no-html] <your submitted URL>" in the subject, e.g. "[no-html] no-html.club/txt".
+Email me [4] with "[no-html] <your submitted URL>" in the subject, e.g. "[no-html] no-html.club".
 You can also include URL(s) in the email body. Technically, you can also include the entire website 
 in the email body (but don't do that).
 
