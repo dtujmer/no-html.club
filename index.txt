@@ -1,0 +1,88 @@
+░▒▓███████▓▒░ ░▒▓██████▓▒░       ░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓██████████████▓▒░░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓████████▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░       ░▒▓█▓▒░░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░ 
+                                                                                              
+                                                                                              
+The modern web is the pure incarnation of evil. When Satan has a 1v1 with his manager, he
+confers with the modern web. If Satan is Sauron, then the modern web is Melkor [1]. Every
+horror that you can imagine is because of the modern web. Modern web is not an existential
+risk (X-risk), but is an astronomic existential risk (S-risk) [2]. It is the duty of each and
+every man, woman, and child to revolt against it. If you're not working on returning civilization
+to ooga-booga, you're a bad person.
+
+(Sorry I had to squeeze even more hyperbole here, and nocss.club [3] has been most hyperbolic
+until now. Hopefully *this* is now the most radical of the *clubs!)
+
+nocss.club claims:
+
+> To do what the Web was initally intended for (that is, make information accessible via the 
+> Internet), all you need is to serve HTML documents.
+
+Not so fast, partner!
+
+You can definitely serve pure text pages over the Internet. No HTML tags, no <head>, no nothing!
+If you're not doing `text/plain` as your Content-Type, are you even a serious person?
+
+##########################################
+#   _        _                 _         #
+#  | |      | |               | |        #
+#  | |___  _| |_    ___  _ __ | |_   _   #
+#  | __\ \/ / __|  / _ \| '_ \| | | | |  #
+#  | |_ >  <| |_  | (_) | | | | | |_| |  #
+#   \__/_/\_\\__|  \___/|_| |_|_|\__, |  #
+#                                 __/ |  #
+#                                |___/   #
+##########################################
+
+
+Q & A:
+------
+
+Q: Have *.club websites gone too far? 
+A: No. 
+
+Q: Is it possible to be more radical than this?
+A: Not sure. I don't know what's *more* minimal than rejecting HTML altogether.
+   Maybe somebody starts a no-nothing.club, where you don't even serve text?
+   And all the contents you return are exclusively returned as custom HTTP headers?
+
+
+Rules:
+------
+
+1. No HTML tags of any sort. "View source" must equal to that which is displayed
+   in the browser.
+2. That's it.
+
+
+Submitting:
+-----------
+
+Email me [4] with "[no-html] <your submitted URL>" in the subject, e.g. "[no-html] no-html.club/txt".
+You can also include URL(s) in the email body.
+
+The list:
+---------
+
+<to be updated>
+
+ __________
+< No HTML! >
+ ----------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+
+---------------------------------------
+
+[1] https://en.wikipedia.org/wiki/Morgoth
+[2] https://en.wikipedia.org/wiki/Risk_of_astronomical_suffering
+[3] https://nocss.club/
+[4] dmnxx@hotmail.com
