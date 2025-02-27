@@ -54,9 +54,8 @@ A: Not sure. I don't know what's *more* minimal than rejecting HTML altogether.
 Rules:
 ------
 
-1. No HTML tags of any sort. "View source" must equal to that which is displayed
-   in the browser.
-2. That's it.
+1. No HTML tags of any sort. "View source" must equal that which is displayed in the browser.
+2. You can use an index.html page to redirect to an actual text page, if necessary.
 
 
 Submitting:
