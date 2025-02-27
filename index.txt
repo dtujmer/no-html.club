@@ -62,7 +62,8 @@ Submitting:
 -----------
 
 Email me [4] with "[no-html] <your submitted URL>" in the subject, e.g. "[no-html] no-html.club/txt".
-You can also include URL(s) in the email body.
+You can also include URL(s) in the email body. Technically, you can also include the entire website 
+in the email body (but don't do that).
 
 The list:
 ---------
